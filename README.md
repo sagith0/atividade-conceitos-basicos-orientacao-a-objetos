@@ -33,7 +33,7 @@ encontre, solicita as novas informações ao usuário, atualizando seus campos. 
 ## Exercício 1.6 (LivrosCompleto)
 
 Com base nos métodos criados nos exercícios anteriores, crie um programa que apresente ao usuário um menu com todas as opções (cadastro de livro, alteração, exclusão, consulta
-por título, consulta completa e sair). O usuário pode selecionar as opções desejadas e, ao terminar, seleciona a opção sair, que finaliza a execução do programa
+por título, consulta completa e sair). O usuário pode selecionar as opções desejadas e, ao terminar, seleciona a opção sair, que finaliza a execução do programa.
 
 ## Exercício 1.7. (Funcionario)
 
